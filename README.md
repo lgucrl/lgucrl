@@ -1,6 +1,6 @@
 ## About me
 
-I'm a Data Science specialist with PhD research experience building Deep Learning pipelines in Python for detection/classification tasks, including dataset creation, training and evaluation of CNN-based models (TensorFlow), and large-scale cloud inference. I reinforced these skills in a professional Master in Data Science through different hands-on projects on real use cases, documented in my Github [portfolio](https://github.com/lgucrl/portfolio), covering descriptive and inferential statistics, advanced Machine Learning methods, Deep Learning, computer vision, NLP fundamentals, Big Data analysis (Spark) and database management (SQL).
+I'm a Data Science specialist with PhD research experience building Deep Learning pipelines in Python for detection/classification tasks, including dataset creation, training and evaluation of CNN-based models (TensorFlow), and large-scale cloud inference. I reinforced these skills in a professional Master in Data Science through different hands-on projects on real use cases, documented in my [portfolio](https://github.com/lgucrl/portfolio) repository, covering descriptive and inferential statistics, advanced Machine Learning methods, Deep Learning, computer vision, NLP fundamentals, Big Data analysis (Spark) and database management (SQL).
 
 ## Contacts
 
